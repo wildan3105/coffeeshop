@@ -4,23 +4,23 @@
     "connector": "memory"
   },
   "mysqlIDs": {
-    "host": "localhost",
+    "host": "sql12.freemysqlhosting.net",
     "port": 3306,
     "url": "",
-    "database": "getting_started",
-    "password": "wildansnahar",
+    "database": "sql12188715",
+    "password": "X5Gd3dWNgw",
     "name": "mysqlIDs",
-    "user": "root",
+    "user": "sql12188715",
     "connector": "mysql"
   },
   "mongoDs": {
-    "host": "localhost",
-    "port": 27017,
+    "host": "ds015713.mlab.com",
+    "port": 15713,
     "url": "",
-    "database": "demo",
-    "password": "",
+    "database": "project1",
+    "password": "wildansnahar",
     "name": "mongoDs",
-    "user": "",
+    "user": "winistein",
     "connector": "mongodb"
   }
 }
